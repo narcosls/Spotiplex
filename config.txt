@@ -1,0 +1,14 @@
+[spotify]
+client_id=098daef7bf6f4ab7b50682e9c0d3c925
+client_secret=71eda3c583a64ba68c2c891231d7d2c9
+redirect_uri=http://localhost/callback
+
+[plex]
+url=http://localhost:32400
+token=tyzz44G_9p7DQJ9dwnoF
+
+[playlists]
+playlist_ids=5PWZ5WpSwAlw0pnYu80f5l,6UeSakyzhiEt4NB3UAd6NQ,37i9dQZEVXbMDoHDwVN2tF,2ClhJXe7qlZSFYzqjvZnPT,37i9dQZF1DWZjqjZMudx9T,37i9dQZF1DX4jP4eebSWR9,37i9dQZF1DXcBWIGoYBM5M,37i9dQZF1DX10zKzsJ2jva,1GHOu1FrGzZo5Mg2c9skWW,37i9dQZEVXbJiZcmkrIHGU,37i9dQZF1DX2SaVGyZ9hsv,37i9dQZF1EVJSvZp5AOML2,1rWe3tlXYkmYLrwGCd5zEG
+
+[users]
+tokens=Seba:tyzz44G_9p7DQJ9dwnoF,Maike:LvGC8EsBfRtgbFEwT_Z3,Ludger:tE7Sy1KKf88mxrkdd3sS,Vicky:YCsK-kzPAM1TukynNffN
